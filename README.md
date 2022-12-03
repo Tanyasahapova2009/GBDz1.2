@@ -1,8 +1,3 @@
-Console.WriteLine("Введите трехзначное число");
-int n = int.Parse(Console.ReadLine());
-int m = n % 10;
-Console.WriteLine(m);
-
 Console.WriteLine("Введите а=");
 int numbera = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите в=");
